@@ -1,5 +1,4 @@
-# SQL Inventory Database RMeisner
-# Oracle Inventory Database Project
+# SQL Oracle Inventory Database Project 
 
 This project was designed and implemented in **Oracle Live SQL** to model an inventory management system.  
 It demonstrates relational database concepts such as primary and foreign key constraints, entity relationships, and data manipulation.
