@@ -4,7 +4,7 @@ This project was designed and implemented in **Oracle Live SQL** to model an inv
 It demonstrates relational database concepts such as primary and foreign key constraints, entity relationships, and data manipulation.
 
 🔗 **View the full project on Oracle Live SQL:**  
-(https://livesql.oracle.com/ords/livesql/s/d768944h46hu15lpu9g7dj7yr))(https://livesql.oracle.com/ords/livesql/s/d768944h46hu15lpu9g7dj7yr)
+(https://livesql.oracle.com/ords/livesql/s/d768944h46hu15lpu9g7dj7yr)
 
 ## 📦 Features
 - Entity-Relationship (ER) model for inventory tracking  
